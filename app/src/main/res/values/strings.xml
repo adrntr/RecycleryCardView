@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Recycler y Card View</string>
+    <string name="textview">TextView</string>
+</resources>
